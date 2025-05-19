@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duprose
+- 👋 Hi, I’m @Duplexkamedjeu
 - 👀 I’m interested in computer engineering and security
 - 🌱 I’m currently learning a computer student in Cameroon
 - 💞️ I’m looking to collaborate on programming and cyber security
